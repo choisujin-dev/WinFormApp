@@ -52,6 +52,7 @@ namespace WinFormApp
 
             pictureBox1.Image = Properties.Resources.강아지;
 
+
         }
     }
 }
